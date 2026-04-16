@@ -22,14 +22,15 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Spring MVC
- - Spring Boot
- - Struts 2
  - Java
+ - JavaScript
  - JPA
  - Oracle
+ - Maven
+ - Rest API
+ - Spring Boot
+ - Spring MVC
  - SQL
- - REST
  - Tech Architecture
  
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
@@ -38,8 +39,13 @@ blogfeed: http://wagnerlopes.blogspot.com/feeds/posts/default
 #Work experience is required
 roles:
  - title: Senior Arch and Programmer
-   start: 2001
+   start: 2026
    end: Ongoing
+   employer: self-employed
+   description: Owner Consultant.
+ - title: Senior Arch and Programmer
+   start: 2001
+   end: 2025
    employer: Brazilian Army
    description: Java Programmer.
  - title: Oracle Programmer
