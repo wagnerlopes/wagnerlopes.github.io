@@ -1,7 +1,7 @@
 # Site settings
 title: Wagner Lopes
 twitter_username: wagnerl0pes
-name: Wagner Luís Barbosa de Abreu Lopes
+name: Wagner L. B. A. Lopes
 
 # Build settings
 markdown: kramdown
@@ -9,14 +9,14 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: GitHub
-   url: https://github.com/wagnerlopes
- - title: StackOverflow
-   url: http://stackoverflow.com/users/7103811/wagner-lopes
  - title: DZone
    url: https://dzone.com/users/977271/wagnerluislopes.html
+ - title: GitHub
+   url: https://github.com/wagnerlopes
  - title: LinkedIn
    url: https://www.linkedin.com/in/wagnerluislopes
+ - title: StackOverflow
+   url: http://stackoverflow.com/users/7103811/wagner-lopes
 
 #Any buzzword skills you want to include
 skills:
@@ -31,7 +31,7 @@ skills:
  - SQL
  
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://wagnerlopes.blogspot.com/feeds/posts/default
+#blogfeed: http://wagnerlopes.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
@@ -65,6 +65,10 @@ education:
    date: 1994
    school: Faculdades Associadas de São Paulo
 
+ - level: Java Programmer by Sun Microsystems
+   date: 1999
+   school: SESC (Sun Microsystems)
+
 #This section is optional (as is the image link below)
 #coursera:
 #   profileurl:
@@ -85,7 +89,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - wagnerlopes/esculapio
+ - wagnerlopes/babilonia
 
 #Stackoverflow flair is optional
 stackoverflow:
@@ -101,13 +105,12 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring Framework, Spring-security, JPA (EclipseLink) in addition to others. <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Struts 2 (and sometimes Spring MVC framework). I have also worked with some client side technology, having used jQuery, Bootstrap and Font Awesome.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git and Maven. I have experience with an array of testing tools and technologies.<br/><br/>
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring Framework, Spring-security, JPA (EclipseLink and HIbernate) in addition to others. <br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on Spring MVC framework. I have also worked with some client side technology, having used JavaScript, Bootstrap and Font Awesome.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, Maven and CI. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge in last twenty years working in enterprise projects. <br/><br/>
 
-
-intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+#intro: |
+#  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
+#  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
+#  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
