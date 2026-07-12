@@ -1,7 +1,7 @@
 # Site settings
 title: Wagner Lopes
 twitter_username: wagnerl0pes
-name: Wagner L. B. A. Lopes
+name: Wagner Lopes
 
 # Build settings
 markdown: kramdown
@@ -63,11 +63,15 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 education:
  - level: System Analysis and Development
    date: 1994
-   school: Faculdades Associadas de São Paulo
+   school: Faculdades Associadas de São Paulo (FASP)
 
  - level: Java Programmer by Sun Microsystems
    date: 1999
    school: SESC (Sun Microsystems)
+
+ - level: Oracle Database Training
+   date: 2000
+   school: Oracle Parteners
 
 #This section is optional (as is the image link below)
 #coursera:
@@ -90,6 +94,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - wagnerlopes/babilonia
+ - wagnerlopes/macedonia
 
 #Stackoverflow flair is optional
 stackoverflow:
