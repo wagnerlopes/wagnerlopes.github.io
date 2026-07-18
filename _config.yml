@@ -32,6 +32,8 @@ skills:
  
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://wagnerlopes.blogspot.com/feeds/posts/default
+blogfeed: https://wagnerlopes.github.io/babilonia
+blogfeed: https://wagnerlopes.github.io/macedonia
 
 #Work experience is required
 roles:
